@@ -1,0 +1,15 @@
+current directory: /Users/tatsuya_toyama/Desktop/Programs/WikiQuiz_forBeginners/vendor/bundle/ruby/2.5.0/gems/bindex-0.5.0/ext/bindex
+/Users/tatsuya_toyama/.rbenv/versions/2.5.0/bin/ruby -r ./siteconf20171231-61232-1sfllz4.rb extconf.rb
+creating Makefile
+
+current directory: /Users/tatsuya_toyama/Desktop/Programs/WikiQuiz_forBeginners/vendor/bundle/ruby/2.5.0/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" clean
+
+current directory: /Users/tatsuya_toyama/Desktop/Programs/WikiQuiz_forBeginners/vendor/bundle/ruby/2.5.0/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR="
+compiling cruby.c
+linking shared-object bindex/cruby.bundle
+
+current directory: /Users/tatsuya_toyama/Desktop/Programs/WikiQuiz_forBeginners/vendor/bundle/ruby/2.5.0/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20171231-61232-1gl3d3f/bindex

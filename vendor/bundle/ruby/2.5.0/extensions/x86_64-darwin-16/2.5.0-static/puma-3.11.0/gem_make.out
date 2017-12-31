@@ -1,0 +1,21 @@
+current directory: /Users/tatsuya_toyama/Desktop/Programs/WikiQuiz_forBeginners/vendor/bundle/ruby/2.5.0/gems/puma-3.11.0/ext/puma_http11
+/Users/tatsuya_toyama/.rbenv/versions/2.5.0/bin/ruby -r ./siteconf20171231-61232-lt3u0u.rb extconf.rb
+checking for BIO_read() in -lcrypto... yes
+checking for SSL_CTX_new() in -lssl... yes
+checking for openssl/bio.h... yes
+creating Makefile
+
+current directory: /Users/tatsuya_toyama/Desktop/Programs/WikiQuiz_forBeginners/vendor/bundle/ruby/2.5.0/gems/puma-3.11.0/ext/puma_http11
+make "DESTDIR=" clean
+
+current directory: /Users/tatsuya_toyama/Desktop/Programs/WikiQuiz_forBeginners/vendor/bundle/ruby/2.5.0/gems/puma-3.11.0/ext/puma_http11
+make "DESTDIR="
+compiling http11_parser.c
+compiling io_buffer.c
+compiling mini_ssl.c
+compiling puma_http11.c
+linking shared-object puma/puma_http11.bundle
+
+current directory: /Users/tatsuya_toyama/Desktop/Programs/WikiQuiz_forBeginners/vendor/bundle/ruby/2.5.0/gems/puma-3.11.0/ext/puma_http11
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 puma_http11.bundle ./.gem.20171231-61232-qw0zp/puma
